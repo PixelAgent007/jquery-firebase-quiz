@@ -21,7 +21,7 @@ var questions = [
     }
 ]
 ```
-The field `correct` may be 0 or 1, depending if `aw1` or `w2` is correct. 
+The field `correct` may be 0 or 1, depending if `aw1` or `aw2` is correct. 
 If both answers should be correct, then just set it to 2.
 
 
